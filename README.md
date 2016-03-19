@@ -1,5 +1,7 @@
 # mongo-viewer
 
+[![Join the chat at https://gitter.im/marcdelalonde/mongo-viewer](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/marcdelalonde/mongo-viewer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Dependencies](http://img.shields.io/david/marcdelalonde/mongo-viewer.svg?style=flat)](https://david-dm.org/marcdelalonde/mongo-viewer)
 [![Download Month](http://img.shields.io/npm/dm/mongo-viewer.svg?style=flat)](https://www.npmjs.org/package/mongo-viewer)
 [![NPM Version](http://img.shields.io/npm/v/mongo-viewer.svg?style=flat)](https://www.npmjs.org/package/mongo-viewer)
